@@ -1,0 +1,10 @@
+pytest==6.2.5
+allure-pytest==2.9.45
+requests==2.27.1
+dateutils==0.6.12
+pandas==1.1.5
+pytest-xdist==2.5.0
+pytest-rerunfailures==10.2
+pytest-selenium==2.0.1
+
+selenium~=4.11.2
