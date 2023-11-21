@@ -68,9 +68,6 @@ def test_color_link(driver):
     assert color_before != color_after
 
 
-"""5 задание, по моему субъективному мнению не до конца понятно/подробно описано. Что конкретно требуется я не понял."""
-
-
 def test_redirect(driver):
     try:
         driver.get('https://www.sberbank.ru/')
